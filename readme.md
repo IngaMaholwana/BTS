@@ -1,0 +1,2 @@
+learnt about binary search tree where takes  a group of data items and turns them into a tree full of nodes with each left node being lower than the right.
+It starts at the root. this is going to be the balance search tree (its sorted)
