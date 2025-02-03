@@ -56,7 +56,7 @@ else
   puts 'Leaf node with value 10 not found.'
 end
 
-puts "Is the tree balanced? #{tree.balance?}"
+puts "Is the tree balanced? #{tree.balaance?}"
 
 tree.insert(80)
 tree.insert(90)
